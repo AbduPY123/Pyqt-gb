@@ -1,0 +1,7 @@
+/.idea
+__pycache__/
+/venv
+*.db3
+*.db3-journal
+*.key
+*.log
